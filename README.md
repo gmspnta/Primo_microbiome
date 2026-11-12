@@ -1,4 +1,5 @@
-# This repository provides R scripts supporting the manuscript "Gut microbiome assembly in very preterm infants predicts long-term growth trajectories".
+# 
+This repository provides R scripts supporting the manuscript "Gut microbiome assembly in very preterm infants predicts long-term growth trajectories".
 
 ## Software requirements
 
